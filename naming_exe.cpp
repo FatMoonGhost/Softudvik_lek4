@@ -1,4 +1,4 @@
-class sum {
+class mini_retard_dvaerg {
   public:
       int d(int* a, int size) {
           int s = 0;
